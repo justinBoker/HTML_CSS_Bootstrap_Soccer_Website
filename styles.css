@@ -12,3 +12,11 @@ header .lead{
 .navbar-nav{
     font-size: 1.5rem;
 }
+
+#pl-banner{
+    background-color: #3d195b;
+}
+
+#pl-navbar{
+    background-color: #e90052;
+}
