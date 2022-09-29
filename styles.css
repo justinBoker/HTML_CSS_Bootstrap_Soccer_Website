@@ -1,0 +1,14 @@
+.jumbotron{
+    background-color: #68bb59;
+    margin-bottom: 0;
+}
+header .lead{
+    font-size: xx-large;
+}
+
+.navbar{
+    background-color: #1e5631;
+}
+.navbar-nav{
+    font-size: 1.5rem;
+}
