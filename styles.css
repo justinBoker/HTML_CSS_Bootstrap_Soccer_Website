@@ -5,13 +5,13 @@
 header .lead{
     font-size: xx-large;
 }
-
 .navbar{
     background-color: #1e5631;
 }
 .navbar-nav{
     font-size: 1.5rem;
 }
+
 
 #pl-banner{
     background-color: #00ff85;
@@ -22,11 +22,9 @@ header .lead{
 #pl-subheader{
     color: #38003c
 }
-
 #pl-navbar{
     background-color: #e90052;
 }
-
 thead tr{
     background-color: #38003c;
     color: white;
@@ -36,3 +34,21 @@ tbody tr:hover{
     background-color: #00ff85;
     color:#38003c
 }
+
+
+#efl-banner{
+    background-color: #0e2d6d;
+}
+#efl-navbar{
+    background-color: #aa1a27;
+}
+#efl-thead{
+    background-color: #0e2d6d;
+    color: white;
+}
+#efl-tbody tr:hover{
+    font-weight: bold;
+    background-color: #a69038;
+    color: black;
+}
+
