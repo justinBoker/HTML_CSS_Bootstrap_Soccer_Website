@@ -14,9 +14,25 @@ header .lead{
 }
 
 #pl-banner{
-    background-color: #3d195b;
+    background-color: #00ff85;
+}
+#pl-header{
+    color: #38003c;
+}
+#pl-subheader{
+    color: #38003c
 }
 
 #pl-navbar{
     background-color: #e90052;
+}
+
+thead tr{
+    background-color: #38003c;
+    color: white;
+}
+tbody tr:hover{
+    font-weight: bold;
+    background-color: #00ff85;
+    color:#38003c
 }
